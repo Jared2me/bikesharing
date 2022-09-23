@@ -15,10 +15,10 @@
 ![launch](Resources/Tripduration.png)
 ![launch](Resources/Tripdurationbygender.png)
 
-### The story also contains 3 heatmaps showing the number and time of trips by weekday:
+### The story also contains 3 heatmaps showing the number and time of trips each day of the week:
 ![launch](Resources/Tripsbyweekday.png)
 
-### The number and time of trips by gender each weekday:
+### The number and time of trips by gender each day of the week:
 ![launch](Resources/Tripsbygender.png)
 
 ### and lastly, a breakdown of customer or subscriber days using the Citibikes (filtered by gender):
