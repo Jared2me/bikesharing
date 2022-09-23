@@ -7,3 +7,10 @@ The scope of this project was to visualize a months worth of Citibike data in Ne
 ##Results
 The result of the data analysis and visualization is located [here](https://public.tableau.com/views/NYCCitybikeData/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+![launch](Resources/Endingpoint.png)
+![launch](Resources/StartingPoint.png)
+![launch](Resources/Tripduration.png)
+![launch](Resources/Tripdurationbygender.png)
+![launch](Resources/Tripsbygender.png)
+![launch](Resources/Tripsbygender2.png)
+![launch](Resources/Tripsbyweekday.png)
