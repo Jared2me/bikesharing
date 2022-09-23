@@ -8,8 +8,8 @@ Bike sharing data analysis of a months worth of Citibike data in NYC
 ### The result of the data analysis and visualization is located [here](https://public.tableau.com/views/NYCCitybikeData/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### The story contains both the most popular starting and ending points graphed to a map of NYC. The data shows that the majority of the bike trips start or end in the downtown areas where traffic is probably heaviest:
+![launch](Resources/Startingpoint.png)
 ![launch](Resources/Endingpoint.png)
-![launch](Resources/StartingPoint.png)
 
 ### It also contains a breakdown of of the length of each bike checkout for all users and also by gender. Both can be filtered:
 ![launch](Resources/Tripduration.png)
